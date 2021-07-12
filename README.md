@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @photon2021
-- 👀 I’m interested in Deep Learning and ML engineering
+- 👀 I’m interested in Deep Learning projects
 - 🌱 I’m currently learning Data pipelines
 - 💞️ I’m looking to collaborate on audio data analysis
 - 📫 How to reach me : tag me on the issues.
